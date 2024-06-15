@@ -1,3 +1,6 @@
+Name : S Subramanian 
+Roll No : 230701349
+Program name : Singly linked list 
 #include<stdio.h>
 #include<stdlib.h>
 struct node
